@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Type"
+title:  "Project Type"
 categories: Project Type
 ---
-Type
+Project Type
 + Open Source
 + An open-source project with information open so anyone can inspect, modify, and enhance. 
 
