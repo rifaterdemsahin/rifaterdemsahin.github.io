@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Subject of the Open Source Project"
+title:  "Whatsapp Join"
 categories: Healthcare
 ---
 
-Subject 
-Build low-cost ventilator to help with coronavirus breathing issues.
+https://chat.whatsapp.com/LUkGN0rcZsJ5rH82KpWJXs    
