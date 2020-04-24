@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SubjMechanics"
+title:  "Mechanics"
 categories: Healthcare
 ---
 
