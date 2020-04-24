@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "Subject of the Open Source Project"
+title:  "Main Components"
 categories: Healthcare
 ---
 
 Subject 
-Build low-cost ventilator to help with coronavirus breathing issues.
+
+https://www.youtube.com/watch?v=oS6GA83nbds
+
+https://www.youtube.com/watch?v=n57u1NvXBgw
+
