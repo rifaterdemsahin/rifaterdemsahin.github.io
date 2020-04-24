@@ -1,8 +1,38 @@
 ---
 layout: post
-title:  "Subject of the Open Source Project"
+title:  "Teams"
 categories: Healthcare
 ---
 
-Subject 
-Build low-cost ventilator to help with coronavirus breathing issues.
+Team
+Onuralp Taner
+  Coding 
+  Hardware
+Ilhami Turkdogan
+  Analysis
+Turgut kanceltik
+  3d print 
+  Mask
+  Development
+Erol Levent
+  Sales
+Berk Erilkun
+  Mechanical
+  Electronics
+Erdem
+  Marketing
+  Linkedin Campaign
+  Documentation
+Eric Wroolie
+  Mobile Coding
+Caglar Derya
+  Support
+  Financial
+Ersel Bozkartal
+  Server Side 
+  Cloud
+  Techincal documentation help
+Mehmet Akif Aksoy
+  Website build
+  Website code
+  Github publish and commit
