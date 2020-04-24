@@ -2,9 +2,7 @@
 layout: post
 title:  "Open Source Code Bases"
 categories: Healthcare
-https://github.com/jcl5m1/ventilator/wiki/Build-a-Low-Cost-PAPR
-
 ---
 
 Subject 
-Build low-cost ventilator to help with coronavirus breathing issues.
+https://github.com/jcl5m1/ventilator/wiki/Build-a-Low-Cost-PAPR
