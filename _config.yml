@@ -25,9 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: 
 url: "https://www.devops.engineering" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rifaterdemsahin
-github_username:  rifaterdemsahin
-Click <a href="https://www.devops.engineering">here</a> to go to my website.
- 
+github_username:  rifaterdemsahin 
 
 # Build settings
 theme: minima
