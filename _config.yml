@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Open Source Ventilators
-url: info@pexabo.com
+email: info@pexabo.com
 description: >- # this means to ignore newlines until "baseurl:"
   An open-source project with information open so anyone can inspect, modify, and enhance. 
 baseurl: 
-url: "https://www.devops.engineering" 
+url: https://www.devops.engineering
 twitter_username: rifaterdemsahin
 github_username:  rifaterdemsahin
 
